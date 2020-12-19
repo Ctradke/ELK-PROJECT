@@ -68,9 +68,11 @@ Ansible was used to automate configuration of the ELK machine. No configuration 
 - The advantages of the automation through ansible is the ease if use and through the use of playbooks you are able to configure multiple machines with one command.
 
 The playbook implements the following tasks:
+
+
 -First we will need to install docker .io, pip 3 and the docker module
 
--Next we will need to increas the virtual memory in order to run the elk server on the virtual machine
+-Next we will need to increase the virtual memory in order to run the elk server on the virtual machine
 
 - Then will need to use the sysctl model
 
